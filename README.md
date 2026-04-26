@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Thanuka Vishal</h1>
-<h3 align="center">🚀 Keep your silver, give me the gold | Future Software Engineer</h3>
+<h1 align="center">Hi, I'm Thanuka Vishal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanukavishal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Future+Software+Engineer;Web+%26+App+Developer;AI+%7C+ML+Enthusiast" />
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -14,8 +11,6 @@
 - 🌱 Currently learning **Web & App Development**
 - 🤖 Interested in **AI, Machine Learning & Emerging Tech**
 - ⚡ Passionate about building impactful software solutions
-
----
 
 ## 🌐 Connect With Me
 
@@ -27,15 +22,17 @@
 
 📧 **Email:** thanukavishal22@gmail.com
 
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,r,react,nodejs,git,figma,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,r,react,nodejs,git,figma,vscode,idea,mysql,mongodb" />
 </p>
 
----
+## 🎨 Creative Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps,ae,pr" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -47,12 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanukavishal&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanukavishal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Badges
 
 <p align="left">
@@ -60,5 +51,15 @@
 <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Design-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop" />
+<img src="https://img.shields.io/badge/Design-After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects" />
+<img src="https://img.shields.io/badge/Video-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro" />
 </p>
+
+---
+
+## ⚡ Mindset
+
+> Keep your silver, give me the gold 🥇
