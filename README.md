@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Thanuka Vishal</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Future+Software+Engineer;Web+%26+App+Developer;AI+%7C+ML+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0377fc,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Thanuka%20Vishal&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 ## 🧑‍💻 About Me
