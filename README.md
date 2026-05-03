@@ -35,12 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanukavishal&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanukavishal&theme=tokyonight&hide_border=true" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thanukavishal&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</div>
 
 ## 🏆 Badges
 
