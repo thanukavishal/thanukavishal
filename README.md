@@ -4,11 +4,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Undergraduate at **University of Peradeniya**
-- 📚 BSc. (Hons.) in Computer Science (3rd Year)
-- 🌱 Currently learning **Web & App Development**
-- 🤖 Interested in **AI, Machine Learning & Emerging Tech**
-- ⚡ Passionate about building impactful software solutions
+- Undergraduate at **University of Peradeniya**
+- BSc. (Hons.) in Computer Science (3rd Year)
+- Currently learning **Web & App Development**
+- Interested in **AI, Machine Learning & Emerging Tech**
+- Passionate about building impactful software solutions
 
 ## 🌐 Connect With Me
 
